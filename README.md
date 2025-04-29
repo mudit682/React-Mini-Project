@@ -25,7 +25,7 @@ clone the repository
 ```bash
 git clone https://github.com/mudit682/React-Mini-Project.git
 cd React-Mini-Project
-
+---
 
 Made with ❤️ by Mudit Tiwari
 

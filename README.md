@@ -27,8 +27,9 @@ git clone https://github.com/mudit682/React-Mini-Project.git
 cd React-Mini-Project
 ---
 
-Made with ❤️ by Mudit Tiwari
-
 This version keeps the key points but simplifies it. You can always add more detailed sections later if needed, such as screenshots or license information.
+
+
+Made with ❤️ by Mudit Tiwari
 
 

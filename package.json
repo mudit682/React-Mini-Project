@@ -1,0 +1,30 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "You need to have Deno v2.0.0 or later installed to run this repo.",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@deno/vite-plugin": "^1.0.4",
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.3"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/roboto": "^5.2.5",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
